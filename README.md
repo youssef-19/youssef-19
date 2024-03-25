@@ -51,7 +51,7 @@
  
  
 <a href="https://github.com/youssef-19"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-19&stroke=58D3F7&background=000000&ring=0B0B61&fire=0080FF&currStreakNum=58D3F7&currStreakLabel=0080FF&sideNums=58D3F7&sideLabels=0B0B61&dates=58D3F7&hide_border=true" /></a>
+src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-19&stroke=2E9AFE&background=000000&ring=0B0B61&fire=0080FF&currStreakNum=0080FF&currStreakLabel=0080FF&sideNums=0080FF&sideLabels=2E9AFE&dates=2E9AFE&hide_border=true" /></a>
 
 
 
