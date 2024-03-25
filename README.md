@@ -57,6 +57,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-19&stroke=ff
 
 
 <a href="https://github.com/youssef-19" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-19&langs_count=5&title_color=121212&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-19&langs_count=5&title_color=0000FF&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
