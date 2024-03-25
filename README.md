@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
+
 
 # <p align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"></p>
 
