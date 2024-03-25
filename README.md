@@ -44,8 +44,7 @@
 
 > ***My Github State:***
 
-
-div align="center">
+ align="center">
 </tbody>
 </table>
 
