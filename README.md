@@ -49,7 +49,7 @@
 <div align="center">
 
  
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=youssef-19&show_icons=true_color=0B0B61&icon_color=0B0B61&text_color=0B0B61&bg_color=D8D8D8)
+![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=youssef-19&show_icons=0B0B61&icon_color=0B0B61&text_color=0B0B61&bg_color=D8D8D8)
  
 <a href="https://github.com/youssef-19"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-19&stroke=ffffff&background=D8D8D8&ring=0B0B61&fire=0B0B61&currStreakNum=0B0B61&currStreakLabel=0B0B61&sideNums=0B0B61&sideLabels=0B0B61&dates=0B0B61&hide_border=true" /></a>
