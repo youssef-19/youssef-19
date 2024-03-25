@@ -12,6 +12,9 @@
     My name is Youssef Amr, and I'm a passionate software developer who loves coding and problem-solving.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I'm particularly enthusiastic about software solutions and creative thinking. I actively participate in innovative software development projects and think critically.𝗵&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>I've collaborated on numerous application development projects with others. I've learned a lot from new technologies and shared my knowledge with others. I've faced many challenges and successfully achieved my goals, and I'm always ready to accomplish more.
    My favorite programming skills include C#, C++, SQL (PostgreSQL), and ASP.NET, but I'm not limited to them. I'm always eager to explore and learn new technologies. The importance of my programming lies in providing innovative and useful solutions and efficiently achieving work goals. I'm always fascinated by achieving new goals and successes. My ability to communicate and work within a team, along with my ability to handle pressure and manage time effectively, makes me an asset to any project I work on.♥️
   </em> 
+<br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
 -   ✉️ You can contact me at [yamr0174@gmail.com]([yamr0174@gmail.com)
 -   🧠 I'm currently learning ASP.NETCORE and C#
