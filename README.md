@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/%F0%9D%90%98%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9F-%F0%9D%90%80%F0%9D%90%A6%F0%9D%90%AB-5b7812240/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
  <hr>
-</h1>
 <p align="center">
   <em>
     My name is Youssef Amr, and I'm a passionate software developer who loves coding and problem-solving.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I'm particularly enthusiastic about software solutions and creative thinking. I actively participate in innovative software development projects and think critically&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>I've collaborated on numerous application development projects with others. I've learned a lot from new technologies and shared my knowledge with others. I've faced many challenges and successfully achieved my goals, and I'm always ready to accomplish more.
