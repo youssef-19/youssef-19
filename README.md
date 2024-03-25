@@ -16,9 +16,6 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
--   ✉️ You can contact me at [yamr0174@gmail.com]([yamr0174@gmail.com)
--   🧠 I'm currently learning ASP.NETCORE and C#
--   ☕ I’m not addicted to coffee. We’re just in a committed relationship.
 
 ### Skills
 
