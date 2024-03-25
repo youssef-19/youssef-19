@@ -46,9 +46,12 @@
 
 
 div align="center">
- <a href="https://github.com/youssef-19">
-    <img src="https://github-readme-stats.vercel.app/api?username=youssef-19&show_icons=true&hide=issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="ahmedgamal2212's GitHub stats"/>
-  </a>
+</tbody>
+</table>
+
+
+ 
+![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=youssef-19&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
  
 <a href="https://github.com/youssef-19"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-19&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
