@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-<!--
-**youssef-19/youssef-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# <p align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></p>
+# <p align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></p>
 
 # My name is Youssef Amr
 
@@ -39,20 +32,13 @@ Here are some ideas to get you started:
 <b>My GitHub Stats</b>
 
 <div align="center">
-<a href="https://github.com/youssef-19"><img src="https://github-readme-stats.vercel.app/api?username=ahmedgamal2212&show_icons=true&hide=issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="ahmedgamal2212's GitHub stats"/></a>
+<a href="https://github.com/youssef-19"><img src="https://github-readme-stats.vercel.app/api?username=youssef-19&show_icons=true&hide=issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="ahmedgamal2212's GitHub stats"/></a>
  
 <a href="https://github.com/youssef-19"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgamal2212&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-19&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/youssef-19" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal2212&langs_count=5&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-19&langs_count=5&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
-[![@el_gemmy's Holopin board](https://holopin.io/api/user/board?user=el_gemmy)](https://holopin.io/@el_gemmy)
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
