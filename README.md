@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-# <p align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></p>
+# <p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></p>
 
 # My name is Youssef Amr
+
 
 ## Full-Stack Software Engineer
 
