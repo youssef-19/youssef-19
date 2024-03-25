@@ -1,12 +1,13 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p align="center">
-<a href="[https://in.linkedin.com/in/hargun-singh-sahni-519baa166](https://www.linkedin.com/in/%F0%9D%90%98%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9F-%F0%9D%90%80%F0%9D%90%A6%F0%9D%90%AB-5b7812240/)">
-    <img align="left" alt="Hargun | Linkedin" width="24px" src="[https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg](https://github.com/youssef-19)" />
-  </a>
-  <a href="yamr0174@gmail.com">
-    <img align="left" alt="Hargun | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
-  </a>
-  </p>
+ <a href="mailto:himanshuthesheoran@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/deut-erium"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/himanshu-sheoran-ab047b152/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+ <a href="https://discord.com/users/deuterium#1689"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/0xdeuterium"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://ctftime.org/user/68856"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
+  <a href="https://deut-erium.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
+</p>
 </h1>
 <p align="center">
   <em>
