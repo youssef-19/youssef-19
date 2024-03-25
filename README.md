@@ -42,7 +42,8 @@
 </p>
 
 
-<b>My GitHub Stats</b>
+> ***My Github State:***
+
 
 <div align="center">
 <a href="https://github.com/youssef-19"><img src="https://github-readme-stats.vercel.app/api?username=youssef-19&show_icons=true&hide=issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="ahmedgamal2212's GitHub stats"/></a>
