@@ -44,13 +44,13 @@
 
 > ***My Github State:***
 
-</tbody>
-</table>
-<div align="center">
+<div align = "center">
+  
+![Parth's Github Status](https://github-readme-stats.vercel.app/api?usernameyoussef-19=&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
- 
-<div align="center">
-<a href="https://github.com/youssef-19"><img src="https://github-readme-stats.vercel.app/api?username=youssef-19&show_icons=true&hide=issues,&count_private=true&title_color=0B0B61&text_color=0B0B61&icon_color=0B0B61&bg_color=D8D8D8&hide_border=true&show_icons=true" alt="youssef-19's GitHub stats"/></a>
+<hr>
+
+</div>
  
  
 <a href="https://github.com/youssef-19"><img
