@@ -10,9 +10,12 @@
 </p>
 </h1>
 <p align="center">
-  <em>
-    My name is Youssef Amr, and I'm a passionate software developer who loves coding and problem-solving.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I'm particularly enthusiastic about software solutions and creative thinking. I actively participate in innovative software development projects and think critically&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>I've collaborated on numerous application development projects with others. I've learned a lot from new technologies and shared my knowledge with others. I've faced many challenges and successfully achieved my goals, and I'm always ready to accomplish more.
-   My favorite programming skills include C#, C++, SQL (PostgreSQL), and ASP.NET, but I'm not limited to them. I'm always eager to explore and learn new technologies. The importance of my programming lies in providing innovative and useful solutions and efficiently achieving work goals. I'm always fascinated by achieving new goals and successes. My ability to communicate and work within a team, along with my ability to handle pressure and manage time effectively, makes me an asset to any project I work on.♥️
+ <em>
+    This is ME,Youssef Amr, a 3nd year undergraduate from Modern Academy.
+    A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
 <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
