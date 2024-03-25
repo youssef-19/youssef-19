@@ -45,17 +45,17 @@
 > ***My Github State:***
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-19&show_icons=true&title_color=0080FF&icon_color=ffbb00&text_color=ffffff&bg_color=000000" alt="Youssef's Github Status">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssef-19&show_icons=true&title_color=0080FF&icon_color=ffbb00&text_color=D8D8D8&bg_color=000000" alt="Youssef's Github Status">
 </div>
 
  
  
 <a href="https://github.com/youssef-19"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-19&stroke=ffffff&background=D8D8D8&ring=0B0B61&fire=0B0B61&currStreakNum=0B0B61&currStreakLabel=0B0B61&sideNums=0B0B61&sideLabels=0B0B61&dates=0B0B61&hide_border=true" /></a>
+src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-19&stroke=ffffff&background=000000&ring=0B0B61&fire=0080FF&currStreakNum=0B0B61&currStreakLabel=0080FF&sideNums=0B0B61&sideLabels=0B0B61&dates=0B0B61&hide_border=true" /></a>
 
 
 
 <a href="https://github.com/youssef-19" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-19&langs_count=5&title_color=0B0B61&text_color=0B0B61&icon_color=0B0B61&bg_color=D8D8D8&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-19&langs_count=5&title_color=D8D8D8&text_color=D8D8D8&icon_color=D8D8D8&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
