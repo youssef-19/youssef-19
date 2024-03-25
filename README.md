@@ -45,7 +45,7 @@
 > ***My Github State:***
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-19&show_icons=true&title_color=0080FF&icon_color=ffbb00&text_color=D8D8D8&bg_color=000000" alt="Youssef's Github Status">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssef-19&show_icons=true&title_color=0080FF&icon_color=ffbb00&text_color=A4A4A4&bg_color=000000" alt="Youssef's Github Status">
 </div>
 
  
